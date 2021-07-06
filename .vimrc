@@ -17,15 +17,10 @@ set nu
 filetype indent on
 
 
-
 "search stuff
 set incsearch
 set hlsearch
 set showmatch
-
-"move up and down visually not by lines
-nnoremap j g
-nnoremap k gk
 
 "no swap files
 set noswapfile
